@@ -28,13 +28,9 @@
     <div style="display:inline-block;">
       <img alt="Amr Halahla's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Amr-HAlahla&show_icons=true&include_all_commits=true&count_private=false&theme=react&hide_border=true&bg_color=0D1117&title_color=3AC301&icon_color=3AC301&text_color=FFFFFF" height="192px"/>
      </div>
-     <h2> 💻 Problem solving websites & Socials</h2>
+     <h2>Socials</h2>
      <br>
      <p align="center">
-   <a href="https://leetcode.com/Amr_Halahla/" target="_blank">
-   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-   </a>
-   <br>
    <a href="https://www.linkedin.com/in/amr-halahla-a50268227/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
