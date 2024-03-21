@@ -1,8 +1,8 @@
-<h1 align="center">Welcome to Amr Halahla's GitHub Profile! 👋</h1>
+<h1 align="center">Hello, Fellow Code Enthusiasts! 💻🎉</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3AC301&center=true&vCenter=true&lines=Computer+Engineering+Student;Welcome+to+my+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3AC301&center=true&vCenter=true&lines=Embark+on+an+adventure+in+code;Welcome+to+my+GitHub!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -53,3 +53,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
+<h2 align="center">Programmer's Motto 🚀</h2>
+<blockquote align="center">
+  "Eat, sleep, code, repeat. And sometimes, debug." 🍔💤💻🔍
+</blockquote>
