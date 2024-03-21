@@ -43,7 +43,7 @@
 <h2 align="center">Socials</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amr-halahla-a50268227/" target="_blank">
+  <a href="https://www.linkedin.com/in/amro-halahla-ba22672bb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100082881763655" target="_blank">
