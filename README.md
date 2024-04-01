@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Fellow Code Enthusiasts! 💻🎉</h1>
+<h1 align="center">Hello, I'm Amr Halahla! 💻🎉</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
