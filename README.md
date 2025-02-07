@@ -1,11 +1,5 @@
 <h1 align="center">Hello, I'm Amr Halahla! 💻🎉</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3AC301&center=true&vCenter=true&lines=Embark+on+an+adventure+in+code;Welcome+to+my+GitHub!" alt="Typing SVG" />
-  </a>
-</p>
-
 <div align="center">
   <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
