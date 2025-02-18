@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amr-halahla&label=Profile%20views&color=0e75b6&style=flat" alt="amr-halahla" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amr-halahla" alt="amr-halahla" /></a> </p>
-
 - 🌱 I’m currently learning **Problem Solving**
 
 - 📫 How to reach me **3mro7ala7la@gmail.com**
